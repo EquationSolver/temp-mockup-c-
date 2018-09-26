@@ -1,0 +1,10 @@
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\bin\Debug\FUN4 mockup.exe.config
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\bin\Debug\FUN4 mockup.exe
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\bin\Debug\FUN4 mockup.pdb
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4 mockup.csprojResolveAssemblyReference.cache
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4_mockup.Form1.resources
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4_mockup.Properties.Resources.resources
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4 mockup.csproj.GenerateResource.Cache
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4 mockup.csproj.CoreCompileInputs.cache
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4 mockup.exe
+Z:\Users\jelle\Documents\Visual Studio 2017\Project\FUN4 mockup\FUN4 mockup\obj\Debug\FUN4 mockup.pdb
