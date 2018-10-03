@@ -22,6 +22,23 @@ namespace FUN4_mockup.Nodes
                 secondChild = node;
         }
 
+        public virtual Node Multiply(Node firstChild)
+        {
+            throw new NotImplementedException();
+        }
+
+        public virtual bool isVariable()
+        {
+            return false;
+        }
+
+        public virtual Node Calculate()
+        {
+            firstChild = firstChild.Calculate();
+            secondChild = secondChild.Calculate();
+            return this;
+        }
+
         public void OverrideChild(Node child, Node node)
         {
             if (firstChild == child)

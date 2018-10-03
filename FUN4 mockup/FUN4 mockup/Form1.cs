@@ -22,6 +22,7 @@ namespace FUN4_mockup
         {
             InputParser parser = new InputParser();
             Node n = parser.parseInput(textBox1.Text);
+            n.Calculate();
             MessageBox.Show(n.Print());
         }
     }

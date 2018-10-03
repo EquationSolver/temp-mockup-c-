@@ -26,5 +26,24 @@ namespace FUN4_mockup.Nodes
         {
             return Value;
         }
+
+        public override bool isVariable()
+        {
+            return true;
+        }
+
+        public override Node Multiply(Node firstChild)
+        {
+            if (firstChild.isVariable())
+                fullValue = (int.Parse(fullValue) * int.Parse(firstChild.Value.Remove(firstChild.Value.Length-1))).ToString();
+            else
+                fullValue = (int.Parse(fullValue) * int.Parse(firstChild.Value)).ToString();
+            return this;
+        }
+
+        public override Node Calculate()
+        {
+            return this;
+        }
     }
 }

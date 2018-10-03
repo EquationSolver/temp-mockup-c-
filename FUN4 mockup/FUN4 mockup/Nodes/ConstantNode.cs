@@ -20,5 +20,16 @@ namespace FUN4_mockup.Nodes
         {
             return Value;
         }
+
+        public override Node Multiply(Node firstChild)
+        {
+            fullValue = (int.Parse(fullValue) * int.Parse(firstChild.Value)).ToString();
+            return this;
+        }
+
+        public override Node Calculate()
+        {
+            return this;
+        }
     }
 }

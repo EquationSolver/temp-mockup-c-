@@ -12,5 +12,14 @@ namespace FUN4_mockup.Nodes
         {
             this.value = '/';
         }
+
+        /*public override Node Calculate()
+        {
+            firstChild.Calculate();
+            secondChild.Calculate();
+            if (secondChild.isVariable())
+                return secondChild.Divide(firstChild);
+            return firstChild.Divide(secondChild);
+        }*/
     }
 }
